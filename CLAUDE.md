@@ -10,14 +10,8 @@ Responde siempre en español.
 
 Arcade Vault: una plataforma de juegos en línea donde los jugadores compiten por la mayor cantidad de puntos. El proyecto sigue Spec Driven Design (flujo `/spec` y `/spec-impl`, de las skills `Klerith/fernando-skills`; ver README.md). Actualmente el código es el scaffold de Create Next App (`app/` solo contiene el layout y la página por defecto), por lo que todavía no existe arquitectura de juegos ni de puntuaciones.
 
-## Comandos
-
-```bash
-npm run dev     # next dev
-npm run build   # next build
-npm run start   # next start (después del build)
-npm run lint    # eslint (flat config, eslint.config.mjs)
-```
+## Skill
+Usa siempre /frontend-desing para diseñar la interfaz del usuario
 
 No hay un test runner configurado.
 
